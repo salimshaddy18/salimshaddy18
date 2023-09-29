@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on similar ideas.
 - 📫 How to reach me baskhetitushar18@gmail.com.
 
+<p align="centre">
+  <img src="https://www.holopin.io/api/user/board?user=salimshaddy18">
+</p>
+
 <!---
 salimshaddy18/salimshaddy18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
